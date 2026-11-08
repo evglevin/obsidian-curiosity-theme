@@ -1,6 +1,6 @@
 # Curiosity
 
-A calm, minimal theme for [Obsidian](https://obsidian.md). Supports light and dark modes.
+A calm, minimal theme for [Obsidian](https://obsidian.md).
 
 ![Curiosity theme in light and dark mode](screenshot.png)
 
