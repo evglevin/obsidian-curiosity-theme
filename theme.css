@@ -20,8 +20,6 @@ body {
   --titlebar-background-focused: var(--background-secondary);
   --ribbon-background-collapsed: var(--background-secondary);
 
-  scrollbar-color: var(--scrollbar-thumb-bg) transparent;
-
   /* Checklist */
   --checklist-done-color: var(--text-faint);
 
